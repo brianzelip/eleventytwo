@@ -1,0 +1,16 @@
+{
+  "name": "eleventytwo",
+  "version": "0.1.0",
+  "description": "Boilerplate 11ty setup",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-brianzelip:brianzelip/eleventytwo.git"
+  },
+  "keywords": [
+    "11ty",
+    "boilerplate"
+  ],
+  "author": "Brian Zelip <bzelip@protonmail.com> (https://zelip.me/)",
+  "license": "MIT"
+}
